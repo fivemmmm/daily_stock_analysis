@@ -121,7 +121,7 @@ class FeishuSender:
         return {
             "config": {"wide_screen_mode": True},
             "header": {
-                "title": {"tag": "plain_text", "content": "股票智能分析报告"},
+                "title": {"tag": "plain_text", "content": "智能分析报告"},
             },
             "elements": [
                 {
